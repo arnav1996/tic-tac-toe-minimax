@@ -2,4 +2,4 @@
 
 echo "Hello Travis"
 
-exit 1
+exit 0
